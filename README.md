@@ -35,9 +35,19 @@ Live Preview 👉 [Check Demo](https://rohit-nextjs-project.netlify.app)
 ## 📦 Installation
 
 Clone the repo and install dependencies:
-
+ 
 ```bash
+# 1. Clone the repo
+
+```shell
 git clone https://github.com/nixen-rohit/addmybrand-internship-project.git
 cd addmybrand-internship-project
+ 
+```
+
+
+# 2. Install dependencies
 npm install
+# or
+yarn install
 
