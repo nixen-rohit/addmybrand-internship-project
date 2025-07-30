@@ -58,3 +58,10 @@ npm install
 yarn install
 ```
 
+# 3. Run
+
+```bash
+npm run dev
+```
+
+
