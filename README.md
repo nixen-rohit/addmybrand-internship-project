@@ -40,9 +40,10 @@ Clone the repo and install dependencies:
 # 1. Clone the repo
 
 ```shell
+
 git clone https://github.com/nixen-rohit/addmybrand-internship-project.git
 cd addmybrand-internship-project
- 
+
 ```
 
 
