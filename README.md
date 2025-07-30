@@ -2,6 +2,9 @@
 
 This is a modern frontend project built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Framer Motion](https://www.framer.com/motion/) designed for interactive, animated UI experiences. It also leverages Radix UI, React Icons, and custom utility libraries for fast and accessible development.
 
+
+Link --> [https://rohit-nextjs-project.netlify.app/]
+
 ---
 
 ## 🔧 Tech Stack
