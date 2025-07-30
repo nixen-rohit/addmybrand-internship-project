@@ -1,31 +1,43 @@
-# 🚀 Intern — Next.js + Tailwind + Framer Motion Project
+ 
+# 🚀 AddMyBrand Internship Project
 
-This is a modern frontend project built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [Framer Motion](https://www.framer.com/motion/) designed for interactive, animated UI experiences. It also leverages Radix UI, React Icons, and custom utility libraries for fast and accessible development.
+Welcome to the **AddMyBrand Internship Project** — a modern, responsive landing page designed to showcase AI-powered marketing tools using **Next.js**, **Tailwind CSS**, and **Framer Motion**.
 
-
-Link --> [https://rohit-nextjs-project.netlify.app/]
+Live Preview 👉 [Check Demo](https://rohit-nextjs-project.netlify.app)
 
 ---
 
-## 🔧 Tech Stack
+## ✨ Features
 
-- **Framework**: [Next.js 15](https://nextjs.org/)
-- **Styling**: Tailwind CSS 4, `clsx`, `tailwind-merge`
-- **UI Components**: Radix UI, Base UI, React Icons
-- **Animations**: Framer Motion
-- **Theming**: `next-themes`
-- **Utilities**: TypeScript, ESLint, PostCSS
+- ⚡️ Fast and optimized with Next.js 15
+- 🎯 Modern UI with Tailwind CSS 4
+- 🌗 Dark-themed design with spotlight effects
+- 🧠 AI-Powered badge (animated)
+- 🎥 Smooth animations with Framer Motion
+- 📱 Fully responsive for all devices
+- 🔗 Demo + Call-to-action buttons
+- 🎨 Custom grid background and fading effects
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js 15**
+- **React 19**
+- **Tailwind CSS 4**
+- **Framer Motion**
+- **Radix UI**
+- **React Icons**
+- **TypeScript**
 
 ---
 
 ## 📦 Installation
 
-```bash
-# 1. Clone the repo
-git clone <your-repo-url>
-cd intern
+Clone the repo and install dependencies:
 
-# 2. Install dependencies
+```bash
+git clone https://github.com/nixen-rohit/addmybrand-internship-project.git
+cd addmybrand-internship-project
 npm install
-# or
-yarn install
+
