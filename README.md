@@ -42,8 +42,9 @@ Clone the repo and install dependencies:
  
 ```bash
 git clone https://github.com/nixen-rohit/addmybrand-internship-project.git
-cd addmybrand-internship-project
- 
+```
+```bash
+cd addmybrand-internship-project 
 ```
 
 # 2. Install dependencies
@@ -51,9 +52,9 @@ cd addmybrand-internship-project
  
 ```bash
 npm install
+```
 # or
+```bash
 yarn install
-
-
 ```
 
